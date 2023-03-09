@@ -15,4 +15,3 @@ or fake:
     • Bayesian network
 
 I have also added the report explaining every function working and output.
-Dataset is also provided and ouput of every function is also provided for guidance.
