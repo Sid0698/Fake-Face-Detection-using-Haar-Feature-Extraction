@@ -1,4 +1,4 @@
-# Fake-Face-dDetection-using-Haar-Feature-Extraction
+# Fake-Face-Detection-using-Haar-Feature-Extraction
 In this project I did following things in that sequence:
   1) Normalize and scale the dataset using standard techniques.
   2) Apply Haar feature extraction.
